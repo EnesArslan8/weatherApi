@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title":"clouds",
+      "src": "https://wallpapercrafter.com/desktop1/506628-dark-clouds-storm-sky-cloudy-weather-dark-night.jpg"
+    },
+    {
+      "id": 2,
+      "title":"foggy",
+      "src":"https://wallpapercrafter.com/desktop2/748803-forest-tree-fog-foggy-mist-misty-landscape-dark.jpg"
+    },
+    {
+      "id":3,
+      "title":"snow",
+      "src":"https://wallpapercrafter.com/desktop6/1628587-snow-winter-frost-cold-current-season-ice-snow.jpg"
+    },
+    {
+      "id":4,
+      "title":"rain",
+      "src":"https://wallpapercrafter.com/sizes/3840x2160/251107-cityscape-rainy-inside-and-rainy-day-hd.jpg"
+    },
+    {
+      "id":5,
+      "title":"storm",
+      "src":"https://www.kesinbilgi.net/wp-content/uploads/2017/07/lightning-1056419.jpg"
+    },
+    {
+      "id":6,
+      "title":"Clear",
+      "src":"https://cdn.wallpapersafari.com/49/69/QtIqKV.jpg"
+    }
+  ]
+  
